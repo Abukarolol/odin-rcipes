@@ -1,12 +1,15 @@
-*{
-    background-color: blue;
-    color: aliceblue;
+div {
+    
+    
 }
 
-div {
-    background-color: red;
-    color: white;
-    font-size: 32px;
-    text-align: center;
-    font-weight: bold;
+p {
+    background-color: rgb(255, 0, 128);
+    font-family: verdana,DejaVu Sans, sans-serif;
+    color: aqua;
+}
+
+#two{
+    color: rgb(0, 60, 255);
+    font-size: 36px;
 }
